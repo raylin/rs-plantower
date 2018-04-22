@@ -1,0 +1,8 @@
+[package]
+name = "rs-plantower"
+version = "0.1.0"
+authors = ["Ray Lin <lieeray4136@gmail.com>"]
+
+[dependencies]
+serialport = "2.3.0"
+time = "0.1.39"
